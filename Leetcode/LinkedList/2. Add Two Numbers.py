@@ -21,3 +21,6 @@ class Solution(object):
                 l2 = l2.next
 
         return head.next
+
+
+##revised 1
